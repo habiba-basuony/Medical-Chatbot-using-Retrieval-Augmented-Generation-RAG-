@@ -1,1 +1,14 @@
-
+streamlit
+langchain
+langchain-community
+sentence-transformers
+chromadb
+transformers
+torch
+torchvision
+torchaudio
+huggingface_hub
+pypdf
+bitsandbytes
+faiss-cpu
+python-dotenv
